@@ -2,7 +2,7 @@ import random
 import sys
 
 print("""DataBase 12月考査
-v1.1
+v1.1.1
 """)
 
 
@@ -564,7 +564,7 @@ E_sentence = ["The garage charges 50 dollars an hour for (l      ).",
 "We flew to Rio de Janeiro (b      ) (w      ) (o      ) Frankfurt.",
 "Walter promised to return the money (w      ) (f      ).",
 "The movie was great, (a      ) (f      ) the silly ending.",
-"This type of even isn't (t      ) (e      ) (t      ).",
+"This type of event isn't (t      ) (e      ) (t      ).",
 "I'll call her tomorrow -- no, (o      ) (s      ) (t      ), I'll try now.",
 "They say that the bicycle thieves are still (a      ) (l      ).",
 "Don't criticize him (b      ) (h      ) (b      ).",
