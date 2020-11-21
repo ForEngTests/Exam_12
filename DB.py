@@ -2,7 +2,7 @@ import random
 import sys
 
 print("""DataBase 12月考査
-v1.0
+v1.1
 """)
 
 
